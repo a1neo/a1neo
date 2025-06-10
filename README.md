@@ -1,5 +1,7 @@
+<!-- IMAGEN GIF A LA DERECHA -->
+<img align="right" width="400" src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/imagebannerwoman.gif" alt="Anderson trabajando"/>
 
-## 👋
+## 👋Saludos, Mi nombre es Anderson Gabmao
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -9,8 +11,6 @@
   </br>
 </p>
 
-<!-- IMAGEN GIF A LA DERECHA -->
-<img align="right" width="400" src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/imagebannerwoman.gif" alt="Anderson trabajando"/>
 
 ---
 🧑‍💻 **Anderson Gamboa**
