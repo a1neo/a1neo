@@ -1,5 +1,3 @@
-<!-- IMAGEN GIF A LA DERECHA -->
-<img align="right" width="400" src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/imagebannerwoman.gif" alt="Anderson trabajando"/>
 
 ## 👋Saludos, Mi nombre es Anderson Gabmao
 
@@ -8,6 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=22&center=true&vCenter=true&width=1000&lines=Salu2...+bienvenido+a+mi+lado+de+la+red;Yo+soy...+Anderson+Gamboa;FullStack+Developer+y+aprendiz+eterno;Hackear+no+es+romper+....+es+entender;Observo,+Analizo,+Automatizo,+Soluciono;¿Tienes+consultas?+Contáctame.">
  
   </a>
+  <!-- IMAGEN GIF A LA DERECHA -->
+<img align="right" width="400" src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/imagebannerwoman.gif" alt="Anderson trabajando"/>
+
   </br>
 </p>
 
