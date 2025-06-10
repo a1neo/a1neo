@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0FF&size=24&center=true&vCenter=true&width=700&height=100&lines=Hola%2C+visitante...+%C2%BFest%C3%A1s+buscando+algo%3F+%F0%9F%91%80;Est%C3%A1s+a+punto+de+ingresar+a+una+zona+de+c%C3%B3digo+y+creaci%C3%B3n.;Soy+Anderson+Josue+Gamboa+Quispe+%E2%99%A5;FullStack+Developer+%E2%80%94+creador+de+soluciones+reales.;Automatizador+de+tareas%2C+buscador+de+vulnerabilidades.;Hackear+el+sistema+no+es+delito...+es+aprendizaje+%E2%9A%A1;Tecnolog%C3%ADa+p%C3%BAblica%2C+c%C3%B3digo+%C3%BAtil%2C+soluciones+vivas.;Aprendo%2C+pruebo+y+construyo+cada+d%C3%ADa+%F0%9F%93%9A%F0%9F%92%BB;%C2%BFTomas+la+pastilla+azul+o+la+roja%3F+T%C3%BA+decides...">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=22&center=true&vCenter=true&width=700&height=100&lines=Bienvenido+al+sistema%2C+explorador+de+c%C3%B3digo+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Soy+Anderson+Josue+Gamboa+Quispe+%E2%99%A5;FullStack+Developer+y+aprendiz+eterno;Automatizo%2C+desarrollo%2C+aseguro;Hackear+no+es+romper...+es+entender;%C2%BFListo+para+compilar+esta+experiencia%3F">
   </a>
 </p>
+
 
 
 <!--
