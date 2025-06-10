@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<!-- IMAGEN GIF A LA DERECHA -->
+<img align="right" src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/imagebannerwoman.gif" alt="Anderson trabajando" width="400" />
 
 
 ---
