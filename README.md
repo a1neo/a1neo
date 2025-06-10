@@ -36,6 +36,20 @@
 
 - 💬 Pregúntame sobre automatización, desarrollo seguro y proyectos de código abierto.
 - 📫 **Cómo contactarme**: [gamboaander5@gmail.com](mailto:gamboaander5@gmail.com)
+
+- <!-- Sección de Tecnologías sobre el Banner -->
+## 💻 Tecnologías
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%236DAF7C.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23479BB4.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+- <!-- Sección de Footer del Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/cucobannergithub.png" alt="Banner de bienvenida" />
 </p>
