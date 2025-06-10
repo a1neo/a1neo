@@ -14,8 +14,8 @@
 ---
 🧑‍💻 **Anderson Gamboa**
 
-👾 Desarrollador FullStack orientado a sistemas complejos  
-💡 Desde los 15 años sumergido en el mundo del código y la informática  
+-👾 Desarrollador FullStack orientado a sistemas complejos  
+-💡 Desde los 15 años sumergido en el mundo del código y la informática  
 📚 Estudiante de Ingeniería de Sistemas
 🧬 Diseñador de arquitecturas modulares y componentes escalables    
 👨‍🏫 Siempre dispuesto a enseñar y crear soluciones
@@ -23,10 +23,10 @@
 🧪 Experto en pruebas unitarias, QA & Testing   
 🛠️ Trabajo con **HTML, CSS, JavaScript, .NET, MySQL**  
 🛡️ Coordinador en soluciones de ciberseguridad y EDR 
-📊 Fan de la automatización y la mejora continua  
-📻 Desarrollador de sistemas y servicios para instituciones privada y públicas
-🤝 Interfaz entre humanos y sistemas: soporte, formación y documentación    
-🎯 Solucionador de problemas. Sin ruido. Sin pausa. 
+📊 Fan de la automatización y la mejora continua 
+-📻 Desarrollador de sistemas y servicios para instituciones privada y públicas...
+-🤝 Interfaz entre humanos y sistemas: soporte, formación y documentación...    
+-🎯 Solucionador de problemas. Sin ruido. Sin pausa... 
 💬 Comunicación fluida y proactividad 
 🧩 Creativo, curioso y con ganas de seguir creciendo  
 
