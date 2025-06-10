@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: space-between; gap: 20px;">
   <!-- TEXTO SOBRE MÍ -->
   <div style="flex: 1; max-width: 50%; min-width: 250px;">
     <p align="center">
