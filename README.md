@@ -8,9 +8,8 @@
   </br>
 </p>
   <!-- IMAGEN GIF A LA DERECHA -->
-  <p align="right">
-    <img align="right" width="400" src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/imagebannerwoman.gif" alt="Anderson trabajando" />
-  </p>
+ <img align="right" width="400" src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/imagebannerwoman.gif" alt="Anderson trabajando" />
+
 
 
 
