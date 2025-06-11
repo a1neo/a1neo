@@ -37,8 +37,12 @@
 - 💬 Pregúntame sobre automatización, desarrollo seguro y proyectos de código abierto.
 - 📫 **Cómo contactarme**: [gamboaander5@gmail.com](mailto:gamboaander5@gmail.com)
 
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg" alt="iscpatricio92" style="max-width: 100%;"></a>
+</p>
+
 <!-- Sección de Tecnologías sobre el Banner -->
-## 💻 Tecnologías
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
@@ -78,8 +82,7 @@
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 
- ## 🛠️ Software´s & Tools
- 
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Software´s & Tools </b>
 <!-- Sección de Footer del Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/cucoban2.png" alt="Banner de bienvenida" />
@@ -87,15 +90,5 @@
 <!--
 **a1neo/a1neo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
