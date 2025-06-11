@@ -30,14 +30,14 @@
 - 🗣️ **Comunicación fluida** y proactividad
 - 🧩 **Creativo**, curioso y con ganas de seguir creciendo
 
----
 
+>Y algo más...
 ### 🌱 **Estoy aprendiendo nuevas tecnologías todos los días**.
 
 - 💬 Pregúntame sobre automatización, desarrollo seguro y proyectos de código abierto.
 - 📫 **Cómo contactarme**: [gamboaander5@gmail.com](mailto:gamboaander5@gmail.com)
 
-- <!-- Sección de Tecnologías sobre el Banner -->
+<!-- Sección de Tecnologías sobre el Banner -->
 ## 💻 Tecnologías
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -73,10 +73,9 @@
  <br><br>
 </div>
 
- ## 🛠️ Software & Tools
+ ## 🛠️ Software´s & Tools
  
-
-- <!-- Sección de Footer del Banner -->
+<!-- Sección de Footer del Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/cucoban2.png" alt="Banner de bienvenida" />
 </p>
