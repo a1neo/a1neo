@@ -78,7 +78,7 @@
 
 - <!-- Sección de Footer del Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/cucobannergithub.png" alt="Banner de bienvenida" />
+  <img src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/cucoban2.png" alt="Banner de bienvenida" />
 </p>
 <!--
 **a1neo/a1neo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
