@@ -87,8 +87,35 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/a1neo/a1neo/main/images/cucoban2.png" alt="Banner de bienvenida" />
 </p>
+
+## 📱 Contacto
+<p align="center">
+  <a href="https://www.facebook.com/Aj0o0" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="mailto:gamboaander5@gmail.com" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/andersongamboa" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/andersongamboaneo" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/gamboaander5" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/soonyamachinne" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+
+
+
 <!--
 **a1neo/a1neo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
