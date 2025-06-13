@@ -82,6 +82,21 @@
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 
+  <!-- Profile Picture -->
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+
+  <!-- Description -->
+```diff
+🛠️ +5 años de experiencia profesional.
++  ✔️ Trabajador responsable.
+#  👨‍💻 Systems engineer.
+-  🚀 Optimización de páginas web.
+!  ✨ Si puedes imaginarlo, puedes programarlo. 
+@@ 💻Resolver problemas desde una computadora construida por uno mismo.@@
+```
+
+
+
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Software´s & Tools </b>
 <!-- Sección de Footer del Banner -->
 <p align="center">
